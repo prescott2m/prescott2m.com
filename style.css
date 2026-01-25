@@ -29,18 +29,18 @@ h1, h2, h3 {
 
 h1 {
     font-size: clamp(1.5em, 10vw, 2.7em);
-    letter-spacing: clamp(0px, 1vw, 6px);
+    letter-spacing: clamp(0px, 1vw, 4px);
     margin-bottom: 0;
 }
 
 h2 {
     font-size: clamp(1.5em, 8vw, 2.3em);
-    letter-spacing: clamp(0px, 0.5vw, 6px);
+    letter-spacing: clamp(0px, 0.5vw, 3px);
 }
 
 h3 {
     font-size: clamp(1.25em, 6vw, 1.3em);
-    letter-spacing: clamp(0px, 0.25vw, 3px);
+    letter-spacing: clamp(0px, 0.25vw, 2px);
 }
 
 img {
